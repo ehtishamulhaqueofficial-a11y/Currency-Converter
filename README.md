@@ -1,3 +1,7 @@
+PROJECT  LIVE  LINK
+
+https://ehtishamulhaqueofficial-a11y.github.io/Currency-Converter/
+
 This project is a beginner-friendly Currency Converter web app.
 It allows users to enter an amount in one currency and instantly convert it into another using real-time exchange rates fetched from an API.
 
